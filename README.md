@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://github.com/AgamVerma/AgamVerma/assets/your-image-id/banner.png" alt="Java Backend Developer Banner" />
+  <img src="https://raw.githubusercontent.com/agamverma77/agamverma77/main/github-header-image.png" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Agam Verma</h1>
